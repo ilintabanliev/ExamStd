@@ -404,3 +404,7 @@ p.nospace {
 ul {
 style="color: black !important;"
 }
+
+p {
+	style="text-align: justify;font-family: Comic Sans MS;"
+}
